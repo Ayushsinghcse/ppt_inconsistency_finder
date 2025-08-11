@@ -1,0 +1,5 @@
+python-pptx
+pillow
+google-generativeai
+pytesseract
+opencv-python
